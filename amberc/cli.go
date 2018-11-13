@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	amber "github.com/gostores/amber"
+	amber "github.com/govenue/amber"
 )
 
 var prettyPrint bool

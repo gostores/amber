@@ -2,7 +2,7 @@
 
 ### Usage
 ```go
-import "github.com/gostores/amber"
+import "github.com/govenue/amber"
 ```
 
 Amber is an elegant templating engine for Go Programming Language

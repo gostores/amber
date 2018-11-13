@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gostores/amber/parser"
+	"github.com/govenue/amber/parser"
 )
 
 var builtinFunctions = [...]string{
